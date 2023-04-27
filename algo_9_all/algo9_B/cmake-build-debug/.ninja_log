@@ -1,0 +1,21 @@
+# ninja log v5
+1	769	6999994771476784	CMakeFiles/algo9_B.dir/main.cpp.obj	cdf854f70e2f8cdf
+772	987	6999994773569794	algo9_B.exe	e9e509cdf73bf3bc
+3	651	7000002657277222	CMakeFiles/algo9_B.dir/main.cpp.obj	cdf854f70e2f8cdf
+652	805	7000002658812103	algo9_B.exe	e9e509cdf73bf3bc
+4	621	7000004735974275	CMakeFiles/algo9_B.dir/main.cpp.obj	cdf854f70e2f8cdf
+621	774	7000004737469214	algo9_B.exe	e9e509cdf73bf3bc
+4	724	7000007479554006	CMakeFiles/algo9_B.dir/main.cpp.obj	cdf854f70e2f8cdf
+724	866	7000007480949332	algo9_B.exe	e9e509cdf73bf3bc
+6	987	7000686115339854	CMakeFiles/algo9_B.dir/main.cpp.obj	cdf854f70e2f8cdf
+988	1464	7000686120067117	algo9_B.exe	e9e509cdf73bf3bc
+6	1143	7000687610402733	CMakeFiles/algo9_B.dir/main.cpp.obj	cdf854f70e2f8cdf
+1144	1577	7000687614755779	algo9_B.exe	e9e509cdf73bf3bc
+5	777	7000693824068725	CMakeFiles/algo9_B.dir/main.cpp.obj	cdf854f70e2f8cdf
+778	1078	7000693826996824	algo9_B.exe	e9e509cdf73bf3bc
+4	753	7000699576271751	CMakeFiles/algo9_B.dir/main.cpp.obj	cdf854f70e2f8cdf
+754	1003	7000699578686282	algo9_B.exe	e9e509cdf73bf3bc
+6	786	7000722014968938	CMakeFiles/algo9_B.dir/main.cpp.obj	cdf854f70e2f8cdf
+787	1069	7000722017735003	algo9_B.exe	e9e509cdf73bf3bc
+4	810	7000722653794527	CMakeFiles/algo9_B.dir/main.cpp.obj	cdf854f70e2f8cdf
+811	1051	7000722656135324	algo9_B.exe	e9e509cdf73bf3bc

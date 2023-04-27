@@ -1,0 +1,19 @@
+# ninja log v5
+0	794	7012060465900221	CMakeFiles/algo10_B.dir/main.cpp.obj	6d72ed6cee8632ae
+797	1011	7012060468029206	algo10_B.exe	864daaab29bf8bb5
+4	582	7012060898943655	CMakeFiles/algo10_B.dir/main.cpp.obj	6d72ed6cee8632ae
+583	724	7012060900344916	algo10_B.exe	864daaab29bf8bb5
+4	559	7012061326849549	CMakeFiles/algo10_B.dir/main.cpp.obj	6d72ed6cee8632ae
+559	703	7012061328266918	algo10_B.exe	864daaab29bf8bb5
+3	685	7012061918702639	CMakeFiles/algo10_B.dir/main.cpp.obj	6d72ed6cee8632ae
+686	848	7012061920290189	algo10_B.exe	864daaab29bf8bb5
+2	559	7012062170403495	CMakeFiles/algo10_B.dir/main.cpp.obj	6d72ed6cee8632ae
+560	708	7012062171861972	algo10_B.exe	864daaab29bf8bb5
+3	569	7012062841419848	CMakeFiles/algo10_B.dir/main.cpp.obj	6d72ed6cee8632ae
+570	712	7012062842815885	algo10_B.exe	864daaab29bf8bb5
+3	821	7012103560417876	CMakeFiles/algo10_B.dir/main.cpp.obj	6d72ed6cee8632ae
+822	1032	7012103562487644	algo10_B.exe	864daaab29bf8bb5
+2	732	7012107919186465	CMakeFiles/algo10_B.dir/main.cpp.obj	6d72ed6cee8632ae
+732	907	7012107920926484	algo10_B.exe	864daaab29bf8bb5
+3	732	7012109885039841	CMakeFiles/algo10_B.dir/main.cpp.obj	6d72ed6cee8632ae
+733	907	7012109886750742	algo10_B.exe	864daaab29bf8bb5
