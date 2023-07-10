@@ -1,0 +1,3 @@
+C:/Users/Egor/CLionProjects/algo13_F/cmake-build-debug/CMakeFiles/algo13_F.dir
+C:/Users/Egor/CLionProjects/algo13_F/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Egor/CLionProjects/algo13_F/cmake-build-debug/CMakeFiles/rebuild_cache.dir
